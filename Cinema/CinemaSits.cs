@@ -64,6 +64,18 @@ namespace Cinema
             {
                 arCinemaSits[choosenRowIndex - 1, 2] = newNumber;
             }
+            else if (choosenColIndex == 'd')
+            {
+                arCinemaSits[choosenRowIndex - 1, 3] = newNumber;
+            }
+            else if (choosenColIndex == 'e')
+            {
+                arCinemaSits[choosenRowIndex - 1, 4] = newNumber;
+            }
+            else if (choosenColIndex == 'f')
+            {
+                arCinemaSits[choosenRowIndex - 1, 5] = newNumber;
+            }
 
         }
 
