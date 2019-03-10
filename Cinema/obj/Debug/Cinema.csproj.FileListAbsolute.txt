@@ -1,0 +1,7 @@
+C:\Users\d.dosymbek\Google Диск\Обучение\repos\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\d.dosymbek\Google Диск\Обучение\repos\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\d.dosymbek\Google Диск\Обучение\repos\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\d.dosymbek\Google Диск\Обучение\repos\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\d.dosymbek\Google Диск\Обучение\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\d.dosymbek\Google Диск\Обучение\repos\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\d.dosymbek\Google Диск\Обучение\repos\Cinema\Cinema\obj\Debug\Cinema.pdb
